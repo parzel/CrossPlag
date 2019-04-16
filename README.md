@@ -4,7 +4,7 @@ CrossPlag is an open-source & cross-platform document similarity checker for doc
 
 Note that this tool does only calculate how similar files are to each other and does not check against any online files or databases.
 
-You can get the standalone jar file here.
+You can get the standalone jar file [here](https://github.com/parzel/CrossPlag/raw/master/jar/CrossPlag.jar).
 
 If you want to help with development, you are happily invited to do so (but beware its messy). Below are some steps which can help you set up the project.
 
