@@ -2,6 +2,8 @@
 
 CrossPlag is an open-source & cross-platform document similarity checker for doc, docx and pdf files. It is written in Kotlin and using [TornadoFX]( https://github.com/edvin/tornadofx) for its GUI.
 
+This tool uses the Levenshtein distance to match sentences from one document to another. By this it can detect similar texts disregarding replacements, restructuring and insertions.
+
 Note that this tool does only calculate how similar files are to each other and does not check against any online files or databases.
 
 You can get the standalone jar file [here](https://github.com/parzel/CrossPlag/raw/master/jar/CrossPlag.jar).
