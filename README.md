@@ -6,7 +6,7 @@ This tool uses the Levenshtein distance to match sentences from one document to 
 
 Note that this tool does only calculate how similar files are to each other and does not check against any online files or databases.
 
-You can get the standalone jar file [here](https://github.com/parzel/CrossPlag/raw/master/jar/CrossPlag.jar).
+You can get the standalone jar file [here](https://github.com/parzel/CrossPlag/raw/master/jar/CrossPlag-all.jar).
 
 If you want to help with development, you are happily invited to do so (but beware its messy). Below are some steps which can help you set up the project.
 
